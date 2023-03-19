@@ -2,7 +2,7 @@
 ---
 ## Use-Case ....
 Konten portofolio
-![Walpaper](C:\Users\Helfira\OneDrive\Documents\GitHub\helfiraladyari.github.io\assets\img\Walpaper.jpg)
+![](./assets/img/Walpaper.jpg)
 
 ---
 # Resources
